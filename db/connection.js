@@ -13,6 +13,8 @@ mongoose.connect(
     }
 );
 
+
+//required
 //seed
 
 // Candies.insertMany(candySeed, (error, candy)=>{
