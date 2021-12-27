@@ -14,5 +14,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "shellshellies <michele.gao.shellies@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git+https://github.com/micheleGao/candies-db.git",
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/micheleGao/candies-db/issues"
+  },
+  "homepage": "https://github.com/micheleGao/candies-db#readme",
+  "description": ""
 }
